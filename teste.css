@@ -1,0 +1,22 @@
+body{
+
+	background-color:#FF1493;
+
+}
+
+
+h1{
+
+	font-style: italic;text-align: center; font-weight: lighter; color: blue;
+
+}
+p{
+
+	font-style: italic;font-size: large; text-align: right;
+
+}
+span{
+
+	font-style: italic;font-size: xx-large;
+
+}
